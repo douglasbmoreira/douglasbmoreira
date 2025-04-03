@@ -1,6 +1,6 @@
-## Douglas Moreira 
+# Douglas Moreira 
 
-# 🚀 De engenheiro civil a cientista de dados!
+## 🚀 De engenheiro civil a cientista de dados!
 
 Já projetei estruturas no mundo físico, mas agora minha missão é construir pontes entre números e insights.  
 Como **UX Designer**, sei que dados também precisam ser intuitivos, e é por isso que estudo **Ciência de Dados** para transformar informações em decisões inteligentes.  
